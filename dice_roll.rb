@@ -4,5 +4,5 @@
 
 def roll
   # code goes here
-  random.rand
+  return 1
 end
